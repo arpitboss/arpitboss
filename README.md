@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitboss&label=Profile%20views&color=0e75b6&style=flat" alt="arpitboss" /> </p>
 
-- 🔭 I’m currently working on **e-Bucket**
+- 🔭 I’m currently working on a flutter project "**e-Bucket**" which is an e-commerce application.
 
 - 🌱 I’m currently learning **State Managements, DSA, and Rest APIs**
 
