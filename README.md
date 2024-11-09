@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arpit Verma</h1>
-<h3 align="center">A passionate flutter developer from India</h3>
+<h3 align="center">A passionate full stack app developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitboss&label=Profile%20views&color=0e75b6&style=flat" alt="arpitboss" /> </p>
 
-- 🔭 I’m currently working on a flutter project "**e-Bucket**" which is an e-commerce application.
+- 🔭 I’m currently working on a flutter project "**Anganwadi Notification**" which is an app to provide notification to Anganwadi Workers regarding the distribution of medications to their respective Anganwadi Centres.
 
-- 🌱 I’m currently learning **State Managements, DSA, and Rest APIs**
+- 🌱 I’m currently learning **Node.js, DSA, and ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arpitboss/](https://github.com/arpitboss/)
 
