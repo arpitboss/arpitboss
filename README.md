@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitboss&label=Profile%20views&color=0e75b6&style=flat" alt="arpitboss" /> </p>
 
-- 🔭 I’m currently working on a flutter project "**Anganwadi Notification**" which is an app to provide notification to Anganwadi Workers regarding the distribution of medications to their respective Anganwadi Centres.
+- 🔭 I’m currently working on a full stack project "**Anganwadi Notification**" which is an app to provide notification to Anganwadi Workers regarding the distribution of medications to their respective Anganwadi Centres.
 
 - 🌱 I’m currently learning **Node.js, DSA, and ML**
 
