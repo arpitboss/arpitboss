@@ -25,7 +25,7 @@ jobs:
           committer_message: "chore: update GitHub profile metrics [Skip GitHub Action]"
 
           config_timezone: Asia/Kolkata
-          config_order: base.header, base.activity, base.community, base.repositories, isocalendar, languages, achievements, habits
+          config_order: base.header, base.activity, base.community, base.repositories, isocalendar, languages
 
           base: header, activity, community, repositories, metadata
 
@@ -36,11 +36,6 @@ jobs:
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-
-          plugin_habits: yes
-
+          
           retries: 3
           retries_delay: 300
